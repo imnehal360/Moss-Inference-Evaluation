@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Downloaded test artifacts
+moss_tasks_api/downloads/
