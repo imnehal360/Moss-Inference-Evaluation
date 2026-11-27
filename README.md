@@ -63,7 +63,7 @@ Moss/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Moss.git
+git clone https://github.com/imnehal360/Moss-Inference-Evaluation.git
 cd Moss
 ```
 
